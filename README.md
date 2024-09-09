@@ -1,4 +1,4 @@
-# fast-click-trainer
+# Target-Showdown
 To install pygame:
 pip install pygame
 or

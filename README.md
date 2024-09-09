@@ -1,4 +1,4 @@
-# Target-Showdown
+# Target Showdown
 To install pygame:
 pip install pygame
 or
